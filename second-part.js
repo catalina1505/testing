@@ -29,14 +29,11 @@ describe(`${SecondPerson.name} Class`, () => {
                 id: 1
             };
             
-                 //act
-                 const result = await model.getMyFullUserData();
+             //act
+             const result = await model.getMyFullUserData();
         
-                 //assert
-                 expect(mockPersonService.lastId).toBe(1);
+             //assert
+             expect(mockPersonService.lastId).toBe(1);
         });
     });
 });
-
-//Additional Matchers
-
