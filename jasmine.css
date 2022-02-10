@@ -1,5 +1,6 @@
 body {
     overflow-y: scroll;
+    height: 100%;
 }
 
 .jasmine_html-reporter {
@@ -304,7 +305,7 @@ body {
 
 .jasmine_html-reporter .jasmine-stack-trace {
     margin: 5px 0 0 0;
-    max-height: 224px;
+    max-height: 324px;
     overflow: auto;
     line-height: 18px;
     color: #666;
