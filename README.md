@@ -1,4 +1,9 @@
-# Course: https://www.linkedin.com/learning/learning-unit-testing-with-jasmine/learning-unit-testing-with-jasmine?u=34833188
+Course: https://www.linkedin.com/learning/learning-unit-testing-with-jasmine/learning-unit-testing-with-jasmine?u=34833188
+
+How to see tests results:
+- Use VS code;
+- Get this plugins: Live Server and Browser Preview;
+- Click: "Live Server" button from VS Code. 
 
 Lessons learnt:
 - you can skip a test/test suite by adding 'x' in front of it (e.g: "xdescribe"; "xit") - helps while debugging;
