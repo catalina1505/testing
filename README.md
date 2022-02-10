@@ -1,4 +1,4 @@
-# intro-test-jasmine
+# Course: https://www.linkedin.com/learning/learning-unit-testing-with-jasmine/learning-unit-testing-with-jasmine?u=34833188
 
 Lessons learnt:
 - you can skip a test/test suite by adding 'x' in front of it (e.g: "xdescribe"; "xit") - helps while debugging;
